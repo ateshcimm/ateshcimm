@@ -42,7 +42,7 @@
 
 <table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/01-UI%20Design-8B5CF6?style=for-the-badge" /> <br><br> Designing stylish and modern user interfaces that feel clean and premium </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/02-Frontend%20Development-06B6D4?style=for-the-badge" /> <br><br> Building responsive and interactive web projects with modern technologies </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/03-User%20Experience-22C55E?style=for-the-badge" /> <br><br> Creating smooth, intuitive and enjoyable experiences for users </td> </tr> </table> </div>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ateshcim&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=16" /> </div>
+<br> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050816,25:0f172a,50:312e81,75:06b6d4,100:22d3ee" /> </div>
 
 ---
 
