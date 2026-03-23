@@ -28,6 +28,12 @@
 
 </div>
 
+<a href="https://instagram.com/ateshcim" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="62" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://x.com/ateshcim" target="_blank"> <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" height="62" /> </a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/000000000000000000" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" height="62" /> </a>
+
+<br><br>
+
+<a href="https://instagram.com/ateshcim" target="_blank"> <img src="https://img.shields.io/badge/@ateshcim-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> </a> <a href="https://x.com/ateshcim" target="_blank"> <img src="https://img.shields.io/badge/@ateshcim-Twitter%2FX-111827?style=flat-square&logo=x&logoColor=white" /> </a> <a href="https://discord.com/users/000000000000000000" target="_blank"> <img src="https://img.shields.io/badge/ateshcim-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> </a> </div>
+
 ---
 
 <div align="center">
