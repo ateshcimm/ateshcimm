@@ -25,6 +25,8 @@
 
 </div>
 
+<p align="center"> <a href="https://github.com/ateshcim" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="55" /> </a> <a href="https://instagram.com/ateshcim" target="_blank"> <img src="https://skillicons.dev/icons?i=instagram" height="55" /> </a> <a href="https://discord.com/users/ateshcim" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" height="55" /> </a> <a href="https://x.com/ateshcim" target="_blank"> <img src="https://skillicons.dev/icons?i=twitter" height="55" /> </a> <a href="https://linkedin.com/in/ateshcim" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="55" /> </a> <a href="mailto:ateshcim@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="55" /> </a> </p> <p align="center"> <a href="https://github.com/ateshcim"> <img src="https://img.shields.io/badge/GitHub-@ateshcim-181717?style=for-the-badge&logo=github" /> </a> <a href="https://instagram.com/ateshcim"> <img src="https://img.shields.io/badge/Instagram-@ateshcim-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://discord.com/users/ateshcim"> <img src="https://img.shields.io/badge/Discord-ateshcim-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> </a> <a href="https://x.com/ateshcim"> <img src="https://img.shields.io/badge/X-@ateshcim-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> </p>
+
 ---
 
 ## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" /> About Me
