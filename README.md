@@ -40,11 +40,7 @@
 
 <img src="https://img.shields.io/badge/Frontend-Modern%20Interfaces-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Design-Clean%20%26%20Premium-06b6d4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Code-Scalable%20Components-22c55e?style=for-the-badge" /> </div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ateshcim&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&title_color=22d3ee&icon_color=8b5cf6&text_color=cbd5e1&bg_color=0d1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ateshcim&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&title_color=22d3ee&text_color=cbd5e1&bg_color=0d1117" />
-
-<br><br>
-
-<img height="180em" src="https://streak-stats.demolab.com?user=ateshcim&theme=tokyonight&hide_border=true&border_radius=20&ring=22d3ee&fire=8b5cf6&currStreakLabel=22d3ee" /> </div>
+<table> <tr> <td align="center" width="33%"> <img src="https://img.shields.io/badge/01-UI%20Design-8B5CF6?style=for-the-badge" /> <br><br> Designing stylish and modern user interfaces that feel clean and premium </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/02-Frontend%20Development-06B6D4?style=for-the-badge" /> <br><br> Building responsive and interactive web projects with modern technologies </td> <td align="center" width="33%"> <img src="https://img.shields.io/badge/03-User%20Experience-22C55E?style=for-the-badge" /> <br><br> Creating smooth, intuitive and enjoyable experiences for users </td> </tr> </table> </div>
 
 ---
 
