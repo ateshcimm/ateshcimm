@@ -44,7 +44,7 @@
 
 ```ts
 const ateshcim = {
-  role: "Frontend Developer",
+  role: "Developer",
   location: "Denmark",
   focus: ["React", "Next.js", "JavaScript"],
   style: ["Modern UI", "Responsive Design", "Clean Code"],
