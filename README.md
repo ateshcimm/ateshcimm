@@ -28,7 +28,7 @@
 
 </div>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,git,github,vscode,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nextjs,git,github,vscode,nodejs" />
 
 <br><br>
 
