@@ -34,6 +34,12 @@
 
 <a href="https://instagram.com/ateshcim" target="_blank"> <img src="https://img.shields.io/badge/@ateshcim-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /> </a> <a href="https://x.com/ateshcim" target="_blank"> <img src="https://img.shields.io/badge/@ateshcim-Twitter%2FX-111827?style=flat-square&logo=x&logoColor=white" /> </a> <a href="https://discord.com/users/000000000000000000" target="_blank"> <img src="https://img.shields.io/badge/ateshcim-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /> </a> </div>
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,git,github,vscode,nodejs" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Frontend-Modern%20Interfaces-8b5cf6?style=for-the-badge" /> <img src="https://img.shields.io/badge/Design-Clean%20%26%20Premium-06b6d4?style=for-the-badge" /> <img src="https://img.shields.io/badge/Code-Scalable%20Components-22c55e?style=for-the-badge" /> </div>
+
 ---
 
 <div align="center">
