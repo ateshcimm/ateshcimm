@@ -28,6 +28,12 @@
 
 </div>
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,figma,git,github,vscode,nodejs" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/UI-Modern-8b5cf6?style=for-the-badge"/> <img src="https://img.shields.io/badge/Design-Clean-06b6d4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Code-Scalable-22c55e?style=for-the-badge"/> </div>
+
 ---
 
 <div align="center">
